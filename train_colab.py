@@ -18,10 +18,17 @@ from config_env import get_env_config, print_config, is_colab
 # Mount Google Drive if in Colab
 if is_colab():
     print("Detected Google Colab environment")
-    print("Mounting Google Drive...")
-    from google.colab import drive
-    drive.mount('/content/drive')
-    print("✓ Google Drive mounted successfully")
+    # Check if Drive is already mounted
+    if not os.path.exists('/content/drive/MyDrive'):
+        print("Mounting Google Drive...")
+        try:
+            from google.colab import drive
+            drive.mount('/content/drive')
+            print("✓ Google Drive mounted successfully")
+        except:
+            print("⚠ Drive mounting failed (may already be mounted in notebook)")
+    else:
+        print("✓ Google Drive already mounted")
 else:
     print("Running in local environment")
 
