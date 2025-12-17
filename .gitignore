@@ -158,3 +158,41 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# ===================================================================
+# AttriMIL Specific - Dataset files (use Google Drive instead)
+# ===================================================================
+
+# Video files
+*.avi
+*.mp4
+*.mov
+
+# Feature files
+*.pt
+*.h5
+*.npy
+*.pkl
+
+# Parquet data files
+*.parquet
+
+# Large dataset directories (metadata CSVs are kept)
+data/full_dataset/Adenoma/
+data/full_dataset/Malignant/
+data/full_dataset/Normal/
+data/camelyon16/data/
+data/camelyon16/.cache/
+data/video/video_panning_data/features/
+data/features/video_features/*.pt
+
+# Model checkpoints and results (too large for git)
+results/models/*.pt
+results/models/*.pth
+results/logs/events.*
+save_weights/
+
+# Temporary download files
+*.tar.gz
+*.zip
+download_log.txt

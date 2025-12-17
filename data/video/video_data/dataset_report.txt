@@ -1,0 +1,128 @@
+VIDEO DATASET REPORT
+================================================================================
+
+Total videos: 93
+Total size: 89437.8 MB
+
+Distribution by category:
+category
+Adenoma      35
+Malignant    25
+Normal       33
+
+Split distribution:
+
+TRAIN SET (55 videos):
+category
+Adenoma      21
+Malignant    15
+Normal       19
+
+VAL SET (18 videos):
+category
+Adenoma      7
+Malignant    5
+Normal       6
+
+TEST SET (20 videos):
+category
+Adenoma      7
+Malignant    5
+Normal       8
+
+================================================================================
+FILES LIST:
+================================================================================
+24a6110: Normal (823.3 MB)
+24a4129: Normal (1303.2 MB)
+24a9816: Normal (724.8 MB)
+24a1536: Normal (1001.8 MB)
+24a4714: Normal (516.8 MB)
+24a1684: Normal (382.1 MB)
+24a9622: Normal (242.4 MB)
+24a8823: Normal (925.1 MB)
+24a1813: Normal (814.6 MB)
+24a1967: Normal (385.0 MB)
+24a5322: Normal (390.7 MB)
+24a8821: Normal (534.1 MB)
+24a4564: Normal (809.7 MB)
+24a6762: Normal (1133.9 MB)
+24a1829: Normal (538.2 MB)
+24a2902: Normal (339.1 MB)
+24b0146: Normal (971.7 MB)
+24a6434: Normal (332.8 MB)
+24a5909: Normal (1012.0 MB)
+24a2079: Normal (818.1 MB)
+24a1820: Normal (367.1 MB)
+24a9529: Normal (541.9 MB)
+24a5265: Normal (559.5 MB)
+24a6426: Normal (541.5 MB)
+24a1837: Normal (770.4 MB)
+24b0368: Normal (446.2 MB)
+24a6938: Normal (930.6 MB)
+24a0631: Normal (626.1 MB)
+24b0309: Normal (594.6 MB)
+24a7770: Normal (988.1 MB)
+24a0791: Normal (464.2 MB)
+24a8119: Normal (244.8 MB)
+24a1673: Normal (698.2 MB)
+24a0986: Adenoma (250.3 MB)
+24a0987: Adenoma (912.2 MB)
+24a0763: Adenoma (4501.9 MB)
+24a1680: Adenoma (1081.6 MB)
+24a1522: Adenoma (559.6 MB)
+24a4415: Adenoma (640.7 MB)
+24a1814: Adenoma (479.3 MB)
+24a1140: Adenoma (418.1 MB)
+24a5913: Adenoma (387.1 MB)
+24a0705: Adenoma (471.8 MB)
+24a0125: Adenoma (3878.3 MB)
+4: Adenoma (2297.6 MB)
+5: Adenoma (2054.4 MB)
+24a2900: Adenoma (18.6 MB)
+24a2096: Adenoma (1159.1 MB)
+1: Adenoma (982.3 MB)
+24a6155: Adenoma (2807.3 MB)
+24a4554: Adenoma (549.9 MB)
+2: Adenoma (3681.2 MB)
+3: Adenoma (1694.5 MB)
+24a4121: Adenoma (305.1 MB)
+21b8981: Adenoma (1450.7 MB)
+24a1676: Adenoma (305.6 MB)
+24a2784: Adenoma (17.0 MB)
+24a0350: Adenoma (550.0 MB)
+24a3261: Adenoma (89.0 MB)
+24a5759: Adenoma (725.0 MB)
+24a4127: Adenoma (570.2 MB)
+24a5614: Adenoma (1054.9 MB)
+24a2386: Adenoma (45.1 MB)
+24a2782: Adenoma (11.2 MB)
+24a0140: Adenoma (396.1 MB)
+24a2232: Adenoma (536.8 MB)
+24a0633: Adenoma (3217.1 MB)
+24a0141: Adenoma (980.1 MB)
+11: Malignant (1547.8 MB)
+10: Malignant (1002.6 MB)
+12: Malignant (1006.1 MB)
+24a2206: Malignant (2386.6 MB)
+24a4273: Malignant (2121.7 MB)
+13: Malignant (2283.7 MB)
+24a0271: Malignant (463.7 MB)
+24a2658: Malignant (1260.5 MB)
+24a1386: Malignant (720.4 MB)
+24a1393: Malignant (913.7 MB)
+24a5136: Malignant (1033.3 MB)
+24a5320: Malignant (1413.7 MB)
+24a1826: Malignant (980.5 MB)
+24a3360: Malignant (588.1 MB)
+24a2083: Malignant (785.1 MB)
+24a0496: Malignant (1180.1 MB)
+24a0497: Malignant (1263.3 MB)
+24a2086: Malignant (709.9 MB)
+24a3993: Malignant (378.7 MB)
+24a3358: Malignant (996.5 MB)
+24a785: Malignant (708.3 MB)
+24a4393: Malignant (1681.2 MB)
+24a5377: Malignant (898.7 MB)
+24a6287: Malignant (784.5 MB)
+24a2998: Malignant (1476.8 MB)

@@ -1,0 +1,65 @@
+Dataset Removal Manifest
+Generated: $(date)
+================================================================================
+
+SUMMARY
+================================================================================
+Total size removed: 92GB
+Total files removed: ~5103 files
+Reason: Using Google Colab with Google Drive dataset instead
+
+WHAT WAS REMOVED
+================================================================================
+
+1. Video Files (87GB)
+   - data/full_dataset/Adenoma/*.avi (36 files)
+   - data/full_dataset/Malignant/*.avi (25 files)
+   - data/full_dataset/Normal/*.avi (33 files)
+   Total: 94 video files
+
+2. Video Features (703MB)
+   - data/video/video_panning_data/features/*.pkl (~4565 files)
+
+3. Camelyon16 Features (3.4GB)
+   - data/camelyon16/*.h5 or similar feature files
+
+4. Extracted Features (13MB)
+   - data/features/video_features/*.pt
+
+WHAT WAS KEPT
+================================================================================
+Metadata files (CSV, TXT, MD):
+- data/video/video_data/video_dataset.csv
+- data/video/video_data/dataset_report.txt
+- data/video/video_data/splits/*.csv
+- data/video/video_panning_data/*.csv
+- data/camelyon16/camelyon16_total.csv
+- data/camelyon16/README.md
+- data/camelyon16/splits/*.csv
+- data/features/video_features/extraction_info.csv
+
+Directory structure maintained for future use.
+
+WHERE DATA IS NOW
+================================================================================
+All datasets should be in Google Drive:
+  Location: /content/drive/MyDrive/dataset2/
+
+  Structure:
+  dataset2/
+  ├── video_data/
+  │   ├── video_dataset.csv
+  │   └── splits/
+  └── video_features/
+      └── *.pt files
+
+RECOVERY
+================================================================================
+If you need local data again:
+1. Download from Google Drive
+2. Or use: rclone copy gdrive:dataset2/ ./data/full_dataset/
+
+To re-download specific videos, use:
+  python scripts/data_processing/download_individual_videos.py
+
+================================================================================

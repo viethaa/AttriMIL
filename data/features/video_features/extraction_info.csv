@@ -1,0 +1,94 @@
+video_id,num_frames,feature_dim,feature_file,status,error
+24a6110,43.0,2048.0,video_features/24a6110.pt,success,
+24a4129,74.0,2048.0,video_features/24a4129.pt,success,
+24a9816,40.0,2048.0,video_features/24a9816.pt,success,
+24a1536,50.0,2048.0,video_features/24a1536.pt,success,
+24a4714,30.0,2048.0,video_features/24a4714.pt,success,
+24a1684,15.0,2048.0,video_features/24a1684.pt,success,
+24a9622,20.0,2048.0,video_features/24a9622.pt,success,
+24a8823,42.0,2048.0,video_features/24a8823.pt,success,
+24a1813,42.0,2048.0,video_features/24a1813.pt,success,
+24a1967,15.0,2048.0,video_features/24a1967.pt,success,
+24a5322,26.0,2048.0,video_features/24a5322.pt,success,
+24a8821,23.0,2048.0,video_features/24a8821.pt,success,
+24a4564,44.0,2048.0,video_features/24a4564.pt,success,
+24a6762,48.0,2048.0,video_features/24a6762.pt,success,
+24a1829,33.0,2048.0,video_features/24a1829.pt,success,
+24a2902,20.0,2048.0,video_features/24a2902.pt,success,
+24b0146,42.0,2048.0,video_features/24b0146.pt,success,
+24a6434,17.0,2048.0,video_features/24a6434.pt,success,
+24a5909,46.0,2048.0,video_features/24a5909.pt,success,
+24a2079,37.0,2048.0,video_features/24a2079.pt,success,
+24a1820,14.0,2048.0,video_features/24a1820.pt,success,
+24a9529,25.0,2048.0,video_features/24a9529.pt,success,
+24a5265,32.0,2048.0,video_features/24a5265.pt,success,
+24a6426,24.0,2048.0,video_features/24a6426.pt,success,
+24a1837,34.0,2048.0,video_features/24a1837.pt,success,
+24b0368,19.0,2048.0,video_features/24b0368.pt,success,
+24a6938,43.0,2048.0,video_features/24a6938.pt,success,
+24a0631,30.0,2048.0,video_features/24a0631.pt,success,
+24b0309,26.0,2048.0,video_features/24b0309.pt,success,
+24a7770,46.0,2048.0,video_features/24a7770.pt,success,
+24a0791,27.0,2048.0,video_features/24a0791.pt,success,
+24a8119,15.0,2048.0,video_features/24a8119.pt,success,
+24a1673,27.0,2048.0,video_features/24a1673.pt,success,
+24a0986,12.0,2048.0,video_features/24a0986.pt,success,
+24a0987,49.0,2048.0,video_features/24a0987.pt,success,
+24a0763,143.0,2048.0,video_features/24a0763.pt,success,
+24a1680,42.0,2048.0,video_features/24a1680.pt,success,
+24a1522,26.0,2048.0,video_features/24a1522.pt,success,
+24a4415,25.0,2048.0,video_features/24a4415.pt,success,
+24a1814,29.0,2048.0,video_features/24a1814.pt,success,
+24a1140,20.0,2048.0,video_features/24a1140.pt,success,
+24a5913,20.0,2048.0,video_features/24a5913.pt,success,
+24a0705,23.0,2048.0,video_features/24a0705.pt,success,
+24a0125,124.0,2048.0,video_features/24a0125.pt,success,
+4,,,,failed,[Errno 32] Broken pipe
+5,,,,failed,[Errno 32] Broken pipe
+24a2900,,,,failed,[Errno 32] Broken pipe
+24a2096,,,,failed,[Errno 32] Broken pipe
+1,,,,failed,[Errno 32] Broken pipe
+24a6155,,,,failed,[Errno 32] Broken pipe
+24a4554,,,,failed,[Errno 32] Broken pipe
+2,,,,failed,[Errno 32] Broken pipe
+3,,,,failed,[Errno 32] Broken pipe
+24a4121,,,,failed,[Errno 32] Broken pipe
+21b8981,,,,failed,[Errno 32] Broken pipe
+24a1676,,,,failed,[Errno 32] Broken pipe
+24a2784,,,,failed,[Errno 32] Broken pipe
+24a0350,,,,failed,[Errno 32] Broken pipe
+24a3261,,,,failed,[Errno 32] Broken pipe
+24a5759,,,,failed,[Errno 32] Broken pipe
+24a4127,,,,failed,[Errno 32] Broken pipe
+24a5614,,,,failed,[Errno 32] Broken pipe
+24a2386,,,,failed,[Errno 32] Broken pipe
+24a2782,,,,failed,[Errno 32] Broken pipe
+24a0140,,,,failed,[Errno 32] Broken pipe
+24a2232,,,,failed,[Errno 32] Broken pipe
+24a0633,,,,failed,[Errno 32] Broken pipe
+24a0141,,,,failed,[Errno 32] Broken pipe
+11,,,,failed,[Errno 32] Broken pipe
+10,,,,failed,[Errno 32] Broken pipe
+12,,,,failed,[Errno 32] Broken pipe
+24a2206,,,,failed,[Errno 32] Broken pipe
+24a4273,,,,failed,[Errno 32] Broken pipe
+13,,,,failed,[Errno 32] Broken pipe
+24a0271,,,,failed,[Errno 32] Broken pipe
+24a2658,,,,failed,[Errno 32] Broken pipe
+24a1386,,,,failed,[Errno 32] Broken pipe
+24a1393,,,,failed,[Errno 32] Broken pipe
+24a5136,,,,failed,[Errno 32] Broken pipe
+24a5320,,,,failed,[Errno 32] Broken pipe
+24a1826,,,,failed,[Errno 32] Broken pipe
+24a3360,,,,failed,[Errno 32] Broken pipe
+24a2083,,,,failed,[Errno 32] Broken pipe
+24a0496,,,,failed,[Errno 32] Broken pipe
+24a0497,,,,failed,[Errno 32] Broken pipe
+24a2086,,,,failed,[Errno 32] Broken pipe
+24a3993,,,,failed,[Errno 32] Broken pipe
+24a3358,,,,failed,[Errno 32] Broken pipe
+24a785,,,,failed,[Errno 32] Broken pipe
+24a4393,,,,failed,[Errno 32] Broken pipe
+24a5377,,,,failed,[Errno 32] Broken pipe
+24a6287,,,,failed,[Errno 32] Broken pipe
+24a2998,,,,failed,[Errno 32] Broken pipe
